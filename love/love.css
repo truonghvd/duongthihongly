@@ -101,7 +101,7 @@ body{
     padding-top: 5px;
     color: #fff;
     font-size: 50px;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
     animation: textHand 1.5s 6s forwards ease-in;
 }
 @keyframes textHand{
@@ -190,7 +190,7 @@ body{
     outline: none;
     border-radius: 5px;
     padding: 0px 10px;
-    font-family: 'Dancing Script', cursive;
+   font-family: 'Roboto', sans-serif;
     font-size: 20px;
     z-index: 11;
     opacity: 0;
