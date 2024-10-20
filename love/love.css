@@ -190,7 +190,7 @@ body{
     outline: none;
     border-radius: 5px;
     padding: 0px 10px;
-   font-family: 'Roboto', sans-serif;
+    font-family: 'Dancing Script', cursive;
     font-size: 20px;
     z-index: 11;
     opacity: 0;
@@ -256,7 +256,7 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 12px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Dancing Script', cursive;
     user-select: none;
     color: #fff;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px,
